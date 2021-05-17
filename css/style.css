@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+}
+.header{
+    height: 100px;
+    background-color:indigo;
+    text-align: center;
+    color: ivory;
+}
+.nav{
+    background-color: lightgreen;
+    height: 90px;
+    text-align: center;
+    color: #fff;
+}
+.main_section{
+height: 600px;
+overflow: hidden;
+background-color: lightcoral;
+
+}
+.section1{
+    height: 600px;
+    width: 60%;
+    background-color: maroon;
+    float: left;
+
+}
+.section{
+    height: 50%;
+    background-color: midnightblue;
+    text-align: center;
+    color: #fff;
+
+}
+.article{
+    height: 50%;
+    text-align: center;
+    color: #fff;
+
+}
+.section2{
+    height: 600px;
+    width: 40%;
+    background-color: mediumorchid;
+    text-align: center;
+    color: rgb(19, 12, 12);
+    float: right;
+}
+.footer{
+    height: 100px;
+    background-color: aqua;
+    text-align: center;
+    color: rgb(19, 12, 12);
+}
